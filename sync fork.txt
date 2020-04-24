@@ -1,0 +1,14 @@
+https://nearsoft.com/blog/how-to-synchronize-your-github-fork/
+https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork
+https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository
+
+
+
+
+git remote add upstream https://github.com/Perishleaf/data-visualisation-scripts.git
+
+
+
+git fetch upstream
+
+
